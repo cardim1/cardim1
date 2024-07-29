@@ -6,7 +6,7 @@
 
 
 ![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=cardim1&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cardim1&layout=donut)](https://github.com/cardim1/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cardim1&layout=donut&show_icons=true&theme=radical)](https://github.com/cardim1/github-readme-stats)
 
 
 ## Skills
@@ -25,4 +25,5 @@
 
 - ### Full Stack Python course (EBAC)
 - ### IT Management college (UNIFACS)
+<img src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif">
 </div>
