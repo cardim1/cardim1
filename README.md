@@ -6,6 +6,7 @@
 
 
 ![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=cardim1&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cardim1&layout=donut)](https://github.com/cardim1/github-readme-stats)
 
 
 ## Skills
