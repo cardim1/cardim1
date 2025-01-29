@@ -92,7 +92,7 @@ Me chamo Gabriel Cardim, tenho 21 anos e sou da Bahia. Atualmente, estou cursand
       alt="GitHub Stats" 
       height="180em"
       style="padding-right: 10px;"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=octaviocamargo208&layout=compact&langs_count=7&theme=transparent" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=cardim1&layout=compact&langs_count=7&theme=transparent" 
   />
 
 </p>
