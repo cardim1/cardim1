@@ -1,30 +1,55 @@
+<h2 align="left">Hi 👋! My name is Gabriel!</h2>
 
-### Hi there, im Gabriel <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Grinning%20Face.png" alt="Grinning Face" width="25" height="25" /> !
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://is.gd/gscardim)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-cardim/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gabrielscardim/)
+###
 
+<h4 align="left">- IT Analyst at @atentooficial<br>- Pursuing a Full Stack Python course at EBAC<br>- IT management undergraduate</h4>
 
-<a href="https://github.com/cardim1">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cardim1&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cardim1&layout=compact&langs_count=7&theme=radical"/>
+###
 
-
-## Skills
-
-<div style="display: inline_block"><br/>
-<img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-<img align="center" alt="html5" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-<img align="center" alt="html5" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-<img align="center" alt="html5" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
-<img align="center" alt="html5" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-<img align="center" alt="html5" src="https://img.shields.io/badge/Powershell-2CA5E0?style=for-the-badge&logo=powershell&logoColor=white">
-<img align="center" alt="html5" src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white">
-<img align="center" alt="html5" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
-
-  ## Loading...
-
-- ### Full Stack Python course (EBAC)
-- ### IT Management college (UNIFACS)
-<img height="400em" src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif">
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=cardim1&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=aura_dark&locale=en&hide_border=true" height="180" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=cardim1&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=aura_dark&hide_border=true" height="180" alt="languages graph"  />
 </div>
+
+###
+
+<h3 align="left">SKILLS</h3>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="30" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="30" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=azure" height="30" alt="azure logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=powershell" height="30" alt="powershell logo"  />
+</div>
+
+###
+
+<div align="left">
+  <a href="https://www.instagram.com/gabrielscardim/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/gabriel-cardim/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+</div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/cardim1/cardim1/output/snake.svg" alt="Snake animation" />
+
+###
