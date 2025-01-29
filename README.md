@@ -82,7 +82,7 @@ Me chamo Gabriel Cardim, tenho 21 anos e sou da Bahia. Atualmente, estou cursand
   <img 
     align="left" 
     alt="GitHub Stats" 
-    height="200" 
+    height="180em" 
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=cardim1&show_icons=true&theme=transparent" 
   />
@@ -90,8 +90,9 @@ Me chamo Gabriel Cardim, tenho 21 anos e sou da Bahia. Atualmente, estou cursand
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=cardim1&layout=compact&theme=transparent" 
-  />l
+      height="180em"
+      style="padding-right: 10px;"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=octaviocamargo208&layout=compact&langs_count=7&theme=transparent" 
+  />
 
 </p>
