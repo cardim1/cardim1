@@ -1,8 +1,11 @@
 # 👩🏻‍💻 Gabriel Cardim
 
-**`Analista de TI | Full Stack Developer | Data Analyst `**
+**`IT Analyst | Full Stack Python Developer `**
 
-Me chamo Gabriel Cardim, tenho 21 anos e sou da Bahia. Atualmente, estou cursando Gestão em TI na UNIFACS. Também estou com um curso de Full Stack Python em andamento na EBAC. Atuo como analista de TI na Atento Brasil S/A. Pode me encontrar no Instagram atraves do perfil "[@gabrielscardim](https://www.instagram.com/gabrielscardim/)" E tambem no Linkedin pelo [Gabriel Cardim](https://www.linkedin.com/in/gabriel-cardim).
+Me chamo Gabriel Cardim, tenho 21 anos e sou natural da Bahia. Atualmente, estou cursando Gestão em TI na UNIFACS. Também estou com um curso de Full Stack Python em andamento na EBAC. 
+Já atuei como Analista de TI (N2) na Atento Brasil S/A e atualmente atuo como Analista de Suporte JR na Omie.
+
+Pode me encontrar no Instagram atraves do perfil "[@gabrielscardim](https://www.instagram.com/gabrielscardim/)" E tambem no Linkedin pelo [Gabriel Cardim](https://www.linkedin.com/in/gabriel-cardim).
 <p align="left">
     <a href="https://github.com/cardim1?tab=repositories&sort=stargazers">
         <img 
