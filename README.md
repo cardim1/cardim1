@@ -2,7 +2,7 @@
 
 **`Data & Analytics | Python • SQL • Power BI | IT Analyst`**
 
-Sou Gabriel Cardim, tenho 21 anos e sou natural da Bahia. Atualmente curso **Gestão em TI na UNIFACS** e estou em formação em **Full Stack Python pela EBAC**, com foco crescente em **Análise de Dados, automação e visualização de informações**.
+Sou Gabriel Cardim, tenho 22 anos e sou natural da Bahia. Atualmente curso **Gestão em TI na UNIFACS** e estou em formação em **Full Stack Python pela EBAC**, com foco crescente em **Análise de Dados, automação e visualização de informações**.
 
 Atuo profissionalmente na área de tecnologia, com experiência em **suporte a sistemas SaaS e ERP**, análise de dados operacionais, resolução de incidentes e apoio a usuários. Já trabalhei como **Analista de TI (N2)** na Atento Brasil S/A e atualmente sou **Analista de Suporte JR na Omie**, onde tenho contato direto com dados, regras de negócio e processos.
 
