@@ -16,7 +16,7 @@ Sou profissional focado em **Dados e Backend com Python**, com projetos voltados
 ### 📊 ETL & Dashboard — Subaru Sales Analytics  
 🔗 https://github.com/cardim1/EtlAndDash---Subaru  
 📌 Pipeline de ETL com Python e dashboards para análise de vendas e indicadores.  
-✏️ Python • Pandas • ETL • DataViz
+✏️ Excel • Power Query • ETL • DataViz
 
 ---
 
