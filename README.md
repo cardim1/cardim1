@@ -38,4 +38,4 @@ Sou profissional focado em **Dados e Backend com Python**, com projetos voltados
 
 ## 📫 Contato  
 - LinkedIn: https://www.linkedin.com/in/gabriel-cardim  
-- Email: seu-email@dominio.com
+- Email: pedrogscardim@gmail.com
