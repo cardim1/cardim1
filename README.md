@@ -1,7 +1,7 @@
 # 👋 Gabriel Cardim  
 **Data & Backend Analyst | Python | SQL | Power BI**
 
-Sou profissional focado em **Dados e Backend com Python**, com projetos voltados a ETL, automação, APIs e análise de dados.
+Sou profissional focado em **Dados e Backend**, com projetos voltados a ETL, automação, APIs e análise de dados.
 
 🌱 Atualmente aprimorando skills em:
 - Python (Pandas, Requests, APIs, ETL)  
