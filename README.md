@@ -1,41 +1,57 @@
-# 👋 Gabriel Cardim  
-**Data & Backend Analyst | Python | SQL | Power BI**
+# 👋 Olá, eu sou Gabriel Cardim!
 
-Sou profissional focado em **Dados e Backend**, com projetos voltados a ETL, automação, APIs e análise de dados.
-
-🌱 Atualmente aprimorando skills em:
-- Python (Pandas, Requests, APIs, ETL)  
-- SQL  
-- Power BI / Dashboards  
-- Automação de tarefas e pipelines  
+### **Data Analyst | Data Engineer | BI Analyst**
+[LinkedIn](https://www.linkedin.com/in/gabriel-cardim) | [Email](mailto:pedrogscardim@gmail.com)
 
 ---
 
-## 💡 Projetos em Destaque
-
-### 📊 ETL & Dashboard — Subaru Sales Analytics  
-🔗 https://github.com/cardim1/EtlAndDash---Subaru  
-📌 Pipeline de ETL com Python e dashboards para análise de vendas e indicadores.  
-✏️ Excel • Power Query • ETL • DataViz
+### 🚀 Sobre Mim
+Profissional de TI com atuação focada em **Análise de Dados, Pipelines ETL, Engenharia de Dados e Business Intelligence**. Experiência em saneamento e governança de dados em sistemas ERP/SaaS, integrações via APIs REST, automação com Python e modelagem em nuvem AWS.
 
 ---
 
-### 🔄 Pipeline de ETL — ViaCEP API  
-🔗 https://github.com/cardim1/ETL-project  
-📌 Extração, transformação e enriquecimento de dados via API pública.  
-✏️ APIs • Python • ETL • Requests
+### 🛠️ Stacks & Tecnologias
+
+![SQL](https://img.shields.io/badge/SQL-Advanced-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3.x-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-S3%20%7C%20Athena-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-DAX%20%7C%20PowerQuery-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Git](https://img.shields.io/badge/Git-Version_Control-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+* **Linguagens & Manipulação:** Python (Pandas, NumPy, Boto3, Requests), SQL (Joins, CTEs, Window Functions).
+* **Engenharia & Cloud:** Pipelines ETL/ELT, Consumo de APIs REST, AWS S3, AWS Athena, Modelagem de Dados.
+* **BI & Data Viz:** Power BI (DAX, Power Query, UX/DataViz), Grafana, Excel Avançado.
 
 ---
 
-## 🚀 Estatísticas
+### 📌 Projetos de Destaque
 
-<p align="center">
-  <img height="165em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=cardim1&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight" />
-  <img height="165em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=cardim1&layout=compact&langs_count=8&theme=tokyonight" />
-</p>
+#### 💳 [AutoFinance Analytics Pipeline](https://github.com/cardim1/autofinance-analytics-data-credit)
+> **Arquitetura Analítica em Nuvem para Risco de Crédito Automotivo**
+* **Descrição:** Simulação do core de dados de uma fintech de financiamento. Ingestão automatizada em nuvem via Python (Boto3) para AWS S3, processamento em escala no AWS Athena e modelagem SQL para cálculo de indicadores de crédito (LTV) e regras de aprovação financeira.
+* **Techs:** `Python` · `AWS S3` · `AWS Athena` · `SQL` · `Data Lake`
+
+#### 📊 [Subaru Sales Analytics & Dashboard](https://github.com/cardim1/EtlAndDash---Subaru)
+> **Pipeline de ETL e Visualização de Indicadores Comerciais**
+* **Descrição:** Tratamento de dados comerciais com rotinas de ETL, estruturação de modelo de dados e criação de dashboard interativo para análise de vendas, faturamento e performance.
+* **Techs:** `Excel` · `Power Query` · `ETL` · `DataViz`
+
+#### 🔄 [ViaCEP ETL Pipeline](https://github.com/cardim1/ETL-project)
+> **Extração, Transformação e Enriquecimento de Dados via API**
+* **Descrição:** Pipeline automatizado em Python que consome a API REST ViaCEP para captura de dados brutos de endereçamento, tratamento e estruturação pronta para consumo analítico.
+* **Techs:** `Python` · `APIs` · `Pandas` · `Requests` · `ETL`
 
 ---
 
-## 📫 Contato  
-- LinkedIn: https://www.linkedin.com/in/gabriel-cardim  
-- Email: pedrogscardim@gmail.com
+### 📊 Estatísticas no GitHub
+
+<div align="center">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=cardim1&theme=dark&hide_border=true" alt="GitHub Streak" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cardim1&layout=compact&theme=dark&hide_border=true&hide=html,css,javascript" alt="Linguagens Mais Usadas" />
+</div>
+
+---
+
+### 📬 Vamos nos conectar?
+* **LinkedIn:** [linkedin.com/in/gabriel-cardim](https://www.linkedin.com/in/gabriel-cardim)
+* **E-mail:** [pedrogscardim@gmail.com](mailto:pedrogscardim@gmail.com)
