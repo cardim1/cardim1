@@ -47,7 +47,7 @@ Profissional de TI com atuação focada em **Análise de Dados, Pipelines ETL, E
 
 <div align="center">
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=cardim1&theme=dark&hide_border=true" alt="GitHub Streak" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cardim1&layout=compact&theme=dark&hide_border=true&hide=html,css,javascript" alt="Linguagens Mais Usadas" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=cardim1&layout=compact&theme=dark&hide_border=true" alt="Linguagens Mais Usadas" />
 </div>
 
 ---
