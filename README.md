@@ -1,7 +1,8 @@
 # 👋 Olá, eu sou Gabriel Cardim!
 
 ### **Data Analyst | Data Engineer | BI Analyst**
-[LinkedIn](https://www.linkedin.com/in/gabriel-cardim) | [Email](mailto:pedrogscardim@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-cardim)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pedrogscardim@gmail.com)
 
 ---
 
@@ -46,10 +47,10 @@ Profissional de TI com atuação focada em **Análise de Dados, Pipelines ETL, E
 ### 📊 Estatísticas no GitHub
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cardim1&theme=dark&hide_border=true" width="48%" />
-  &nbsp;
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=cardim1&layout=compact&theme=dark&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=cardim1&show_icons=true&theme=dark&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cardim1&layout=compact&theme=dark&hide_border=true" width="48%" />
 </p>
+
 ---
 
 ### 📬 Vamos nos conectar?
